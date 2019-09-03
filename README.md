@@ -1,32 +1,33 @@
-Personal Goals
+Personal Goals  (Christina needs to update with her own)
 ==============
 
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
 
-# Overarching Goals for 2017: [Make an Impact](http://una.im/2016-review/)
-1. JavaScript
-2. Be a Teacher
-3. Stay Experimental
-4. Publish a Book
-5. Start Running Again
+# Overarching Tech Goals for 2019-20:
+1. Python
+2. BI, Data Analysis & Visualization
+3. DB & DB architecture
+4. Start tutoring
+5. Start blogging
+6. Create my own website
+7. Keep track of my practice and passion projects
 
-I'm also doing 5 25-Days Projects in 2017:
+I'm also doing 100 Days of Code (Python focus).
 
-1. ⭕ Running
-2. 🌀 Writing Letters
-3. ✅ Mentorship
-4. ✅ Dev Doodles
-5. ✅ Meditation (23 consecutive)
+End goal: Become a paid Python developer with specilization in data analysis and visualization and bring a meaningful and actionable approach. 
 
-# [Date Normally Goes Here]
 
-### This Week's Focus: N/A
+9/3/2019
+
+### This Week's Focus: Gather steam with 100 DOC & Python, learn Git & Git Hub and use them BOTH.
 
 ### Things I'll do This Week:
-
-I haven't done this in a while, since I've moved to my bullet journal in September. However, you can look through the archive for ideas :) It's helped me for about 3 years!
-
-### Things I'll Do in the Future:
+- [ ] Profitable Programmer Course
+- [ ] Learn and use Git/ Git Hub
+- [ ] Revist my old Coursera Python for Everybody course
+- [ ] Revisit Python in Udacity
+- [ ] Work throuh Python Crash Course
+### Things I'll Do in the Future:  (Christina Update)
 
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Build something cool with Arduino
